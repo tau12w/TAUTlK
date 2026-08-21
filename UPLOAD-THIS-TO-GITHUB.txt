@@ -1,0 +1,22 @@
+TAUTIK DAS PORTFOLIO — CORRECTED UPLOAD
+
+The assets folder is required. The website files must be arranged exactly like this:
+
+index.html
+.nojekyll
+favicon.svg
+robots.txt
+sitemap.xml
+assets/
+  index-*.js
+  index-*.css
+  kirana.jpg
+  finwise.jpg
+  tautik-das.jpg
+  css-certificate.pdf
+
+Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+Do not flatten the assets folder. Do not upload only index.html.
+
+For GitHub Pages:
+Settings > Pages > Deploy from a branch > main > / (root)
